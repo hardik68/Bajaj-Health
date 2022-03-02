@@ -1,0 +1,4 @@
+com/bajajhealth/rest/dto/StudentRequestDto.class
+com/bajajhealth/rest/dto/StudentResponseDto.class
+com/bajajhealth/rest/controller/StudentController.class
+com/bajajhealth/rest/SpringBootRestExampleApplication.class
